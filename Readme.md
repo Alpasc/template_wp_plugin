@@ -1,0 +1,1 @@
+Rename "NameOfPlugin" with the name of YOUR plugin :)
